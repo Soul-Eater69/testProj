@@ -1,5 +1,5 @@
 {
-  "lineageid": "title",
+  "lineageid": "lineage",
   "Source_data": {
     "system": "Databricks",
     "database": "oracle",
